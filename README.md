@@ -136,12 +136,5 @@ Student-Performance-Prediction/
 - Evaluated the model using Accuracy Score.
 - Predicted student performance based on educational and demographic features.
 
----
 
-## 👩‍💻 Author
 
-**Basma Mamdouh**
-
-Faculty of Computer Science
-
-Intelligent Systems Department
